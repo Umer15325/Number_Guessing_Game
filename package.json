@@ -1,5 +1,5 @@
 {
-  "name": "number-guess-game_15325",
+  "name": "my-game_15325",
   "version": "1.0.0",
   "description": "A CLI based number guessing game using ts & nodejs.",
   "main": "index.js",

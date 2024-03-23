@@ -1,5 +1,7 @@
 #! /usr/bin/env node
 
+// npx my-game_15325
+
 // NUMBER GUESSING GAME
 
 
