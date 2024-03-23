@@ -1,0 +1,25 @@
+{
+  "name": "number-guess-game_15325",
+  "version": "1.0.0",
+  "description": "A CLI based number guessing game using ts & nodejs.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "number-guess-game_15325": "main.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umer",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
